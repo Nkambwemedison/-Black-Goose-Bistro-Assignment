@@ -1,0 +1,134 @@
+
+body {
+background-color: rgb(208, 205, 205);
+display: block;
+flex-direction: column;
+justify-content: space-around;
+align-items: center;
+height: auto;
+width: 96%;
+margin:auto;
+}
+   
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;  
+    font-style: normal;
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 36px;
+    padding-top: 40px;
+    justify-content: left;
+  }
+  
+  header nav {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+  }
+  
+header nav a {
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0 10px;
+    padding: 5px;
+    border-radius: 5px;
+    font-display: block;
+  }
+  
+  header nav a:hover {
+    background-color: #555;
+  }
+  
+  section {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    max-width: 800px;
+    text-align: center;
+  }
+  
+  section h1 {
+    margin: 0;
+    font-size: 36px;
+    color: #333;
+  }
+  
+  section p {
+    color: #555;
+  }
+  
+  .Hero {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 0;
+  }
+  
+ img {
+    width: 30%;
+    max-width: 50%;
+    height: auto;
+    border-radius: 5px;
+    margin-right: 20px;
+    justify-content: left;
+  }
+  
+  #Menu {
+    background-color: #eee;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    max-width: 800px;
+    text-align: left;
+  }
+  
+  #Menu h2 {
+    margin: 0;
+    font-size: 36px;
+    color: #333;
+  }
+  
+  #Menu p {
+    color: #555;
+  }
+  
+  #Menu b {
+    color: #f00;
+  }
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
